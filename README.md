@@ -12,5 +12,10 @@ To create this application we will be using Gmail API provided by Google.
 4. Now you need to provide a clientId for Oauth [To know more about Oauth 2.0](https://datatracker.ietf.org/doc/html/rfc6749#section-4.1).
 5. You can download your client secret as Json File.
 
-
 ### Oauth Authentication
+
+1.After setting up your application you need to do [Authorization Code Grant](https://googleapis.dev/java/google-api-client/latest/com/google/api/client/googleapis/auth/oauth2/GoogleAuthorizationCodeFlow.html).
+
+
+
+
